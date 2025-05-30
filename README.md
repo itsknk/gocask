@@ -1,5 +1,5 @@
 ## gocask
-implementation of the bitcask paper in go.
+implementation of the [bitcask paper](https://riak.com/assets/bitcask-intro.pdf) in go.
 
 ## notes
 have to write. will write, hopefully. someday.
